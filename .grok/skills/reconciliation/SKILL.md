@@ -7,6 +7,8 @@ description: Daily recon: expected vs actual, breaks, ownership.
 
 Daily recon: expected vs actual, breaks, ownership.
 
+Status: **stub**. Reminder only — see [docs/DEPTH_MATRIX.md](../../docs/DEPTH_MATRIX.md).
+
 ## Steps
 1. Sources of truth.
 2. Break categories.

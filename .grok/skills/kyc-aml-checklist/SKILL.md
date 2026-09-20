@@ -3,9 +3,11 @@ name: kyc-aml-checklist
 description: KYC/AML process checklist (policy framing — not evasion).
 ---
 
-# Kyc Aml Checklist
+# KYC/AML Checklist
 
 KYC/AML process checklist (policy framing — not evasion).
+
+Status: **stub**. Reminder only — see [docs/DEPTH_MATRIX.md](../../docs/DEPTH_MATRIX.md). Not legal advice. Not evasion.
 
 ## Steps
 1. Customer journey touchpoints.
