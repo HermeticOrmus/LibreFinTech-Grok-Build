@@ -7,6 +7,8 @@ description: Map product features to likely regulatory themes (high-level).
 
 Map product features to likely regulatory themes (high-level).
 
+Status: **stub**. Reminder only — see [docs/DEPTH_MATRIX.md](../../docs/DEPTH_MATRIX.md). Not a legal opinion.
+
 ## Steps
 1. Jurisdictions in scope.
 2. Feature → theme map.
