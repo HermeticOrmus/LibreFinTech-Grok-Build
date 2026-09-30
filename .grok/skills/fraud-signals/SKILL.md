@@ -5,7 +5,7 @@ description: "Stub cue, not installed. Defensive fraud-signal design: detection 
 
 # Fraud Signals
 
-> Stub, not installed by the plugin. The real depth is the [`fraud-detection`](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code/tree/main/plugins/fraud-detection) plugin of LibreFinTech-Claude-Code, which this edition's marketplace installs: `grok plugin install fraud-detection@libre-fintech-grok`.
+> Stub, not installed by the plugin. The real depth is the [`fraud-detection`](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code/tree/main/plugins/fraud-detection) plugin of LibreFinTech-Claude-Code, which this edition's marketplace installs: `grok plugin install fraud-detection@LibreFinTech-Grok-Build`.
 
 Defensive fraud-signal design — detection cues, not attack recipes.
 

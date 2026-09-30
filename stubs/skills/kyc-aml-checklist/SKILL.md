@@ -5,7 +5,7 @@ description: "Stub cue, not installed. KYC/AML process checklist (policy framing
 
 # KYC/AML Checklist
 
-> Stub, not installed by the plugin. The real depth is the [`kyc-aml`](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code/tree/main/plugins/kyc-aml) plugin of LibreFinTech-Claude-Code, which this edition's marketplace installs: `grok plugin install kyc-aml@libre-fintech-grok`.
+> Stub, not installed by the plugin. The real depth is the [`kyc-aml`](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code/tree/main/plugins/kyc-aml) plugin of LibreFinTech-Claude-Code, which this edition's marketplace installs: `grok plugin install kyc-aml@LibreFinTech-Grok-Build`.
 
 KYC/AML process checklist (policy framing — not evasion).
 
