@@ -32,9 +32,9 @@ See [QUICK_START.md](./QUICK_START.md) for the marketplace, dogfood, and copy pa
 
 ```bash
 grok plugin marketplace add HermeticOrmus/LibreFinTech-Grok-Build
-grok plugin install libre-fintech-grok@libre-fintech-grok
+grok plugin install libre-fintech-grok@LibreFinTech-Grok-Build
 # Any pack plugin, pinned by commit, for example:
-grok plugin install payment-processing@libre-fintech-grok
+grok plugin install payment-processing@LibreFinTech-Grok-Build
 grok plugin list
 ```
 

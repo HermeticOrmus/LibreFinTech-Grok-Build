@@ -5,7 +5,7 @@ description: "Stub cue, not installed. Map product features to likely regulatory
 
 # Regulatory Map
 
-> Stub, not installed by the plugin. The real depth is the [`regulatory-compliance`](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code/tree/main/plugins/regulatory-compliance) plugin of LibreFinTech-Claude-Code, which this edition's marketplace installs: `grok plugin install regulatory-compliance@libre-fintech-grok`.
+> Stub, not installed by the plugin. The real depth is the [`regulatory-compliance`](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code/tree/main/plugins/regulatory-compliance) plugin of LibreFinTech-Claude-Code, which this edition's marketplace installs: `grok plugin install regulatory-compliance@LibreFinTech-Grok-Build`.
 
 Map product features to likely regulatory themes (high-level).
 

@@ -37,15 +37,17 @@ One marketplace brings the Grok-native plugin and every LibreFinTech-Claude-Code
 
 ```bash
 grok plugin marketplace add HermeticOrmus/LibreFinTech-Grok-Build
-grok plugin install libre-fintech-grok@libre-fintech-grok
-grok plugin install payment-processing@libre-fintech-grok
+grok plugin install libre-fintech-grok@LibreFinTech-Grok-Build
+grok plugin install payment-processing@LibreFinTech-Grok-Build
 ```
+
+Grok registers a marketplace added from GitHub under the repo's name, so the part after `@` is `LibreFinTech-Grok-Build`, not the manifest name `libre-fintech-grok`. A bare plugin name also works when no other marketplace you added has a plugin by that name.
 
 Every entry at once (needs `jq`):
 
 ```bash
 for p in $(curl -fsSL https://raw.githubusercontent.com/HermeticOrmus/LibreFinTech-Grok-Build/main/.grok-plugin/marketplace.json | jq -r '.plugins[].name'); do
-  grok plugin install "$p@libre-fintech-grok"
+  grok plugin install "$p@LibreFinTech-Grok-Build"
 done
 ```
 

@@ -5,7 +5,7 @@ description: "Stub cue, not installed. Daily recon: expected vs actual, breaks, 
 
 # Reconciliation
 
-> Stub, not installed by the plugin. The real depth is the [`reconciliation`](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code/tree/main/plugins/reconciliation) plugin of LibreFinTech-Claude-Code, which this edition's marketplace installs: `grok plugin install reconciliation@libre-fintech-grok`.
+> Stub, not installed by the plugin. The real depth is the [`reconciliation`](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code/tree/main/plugins/reconciliation) plugin of LibreFinTech-Claude-Code, which this edition's marketplace installs: `grok plugin install reconciliation@LibreFinTech-Grok-Build`.
 
 Daily recon: expected vs actual, breaks, ownership.
 

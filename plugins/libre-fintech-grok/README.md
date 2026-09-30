@@ -12,7 +12,7 @@ The Grok-native layer of [LibreFinTech-Grok-Build](https://github.com/HermeticOr
 
 ```bash
 grok plugin marketplace add HermeticOrmus/LibreFinTech-Grok-Build
-grok plugin install libre-fintech-grok@libre-fintech-grok
+grok plugin install libre-fintech-grok@LibreFinTech-Grok-Build
 ```
 
 The same marketplace offers every LibreFinTech-Claude-Code plugin, pinned by commit.

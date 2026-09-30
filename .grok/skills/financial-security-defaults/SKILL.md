@@ -5,7 +5,7 @@ description: "Stub cue, not installed. Secure defaults for FinTech apps: auth, s
 
 # Financial Security Defaults
 
-> Stub, not installed by the plugin. The real depth is the [`financial-security`](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code/tree/main/plugins/financial-security) plugin of LibreFinTech-Claude-Code, which this edition's marketplace installs: `grok plugin install financial-security@libre-fintech-grok`.
+> Stub, not installed by the plugin. The real depth is the [`financial-security`](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code/tree/main/plugins/financial-security) plugin of LibreFinTech-Claude-Code, which this edition's marketplace installs: `grok plugin install financial-security@LibreFinTech-Grok-Build`.
 
 Secure defaults for FinTech apps — auth, secrets, least privilege.
 
