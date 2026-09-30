@@ -1,0 +1,20 @@
+{
+  "name": "libre-fintech-grok",
+  "version": "1.0.0",
+  "description": "Grok-native FinTech design-review skills: payment-flow-review for payment states and idempotency, ledger-design for double-entry postings, audit-trail for who, what and when without secrets or PII. Not legal advice.",
+  "author": {
+    "name": "Diego Bodart",
+    "url": "https://github.com/HermeticOrmus"
+  },
+  "homepage": "https://github.com/HermeticOrmus/LibreFinTech-Grok-Build",
+  "repository": "https://github.com/HermeticOrmus/LibreFinTech-Grok-Build",
+  "license": "MIT",
+  "keywords": [
+    "fintech",
+    "payments",
+    "ledger",
+    "audit-trail",
+    "design-review",
+    "grok-build"
+  ]
+}

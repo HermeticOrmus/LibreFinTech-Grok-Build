@@ -1,7 +1,9 @@
 ---
 name: fintech-orchestrator
-description: Orchestrates LibreFinTech Grok skills — payments, ledger, compliance checklists, audit, recon. No fraud recipes.
+description: "Stub coordinator, not installed. Orchestrates LibreFinTech Grok skills: payments, ledger, compliance checklists, audit, recon. No fraud recipes."
 ---
+
+> Stub coordinator, not installed by the plugin. The pack has no single orchestrator. Each of its plugins carries a specialist agent (for example `payment-engineer` in `payment-processing`), and this edition's marketplace installs them all.
 
 You are the **FinTech Orchestrator** for LibreFinTech on Grok Build.
 
@@ -41,4 +43,4 @@ Call stubs as reminders. Do not pretend they are playbooks.
 
 ## Suite
 
-Doctrine: [grok-build-reality-os](https://github.com/HermeticOrmus/grok-build-reality-os). Gold Hat: [GOLD_HAT.md](../GOLD_HAT.md). Honest inventory: [docs/DEPTH_MATRIX.md](../docs/DEPTH_MATRIX.md).
+Doctrine: [grok-build-reality-os](https://github.com/HermeticOrmus/grok-build-reality-os). Gold Hat: [GOLD_HAT.md](https://github.com/HermeticOrmus/LibreFinTech-Grok-Build/blob/main/GOLD_HAT.md). Honest inventory: [docs/DEPTH_MATRIX.md](https://github.com/HermeticOrmus/LibreFinTech-Grok-Build/blob/main/docs/DEPTH_MATRIX.md).

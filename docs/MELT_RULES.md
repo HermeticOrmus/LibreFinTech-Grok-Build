@@ -8,5 +8,5 @@
 6. Honest depth counts (`stub` vs `melted` in DEPTH_MATRIX — never Claude totals).
 7. Suite footer → Reality OS + sibling Libre*-Grok-Build packs.
 8. No dumb clone.
-9. `skills/` is canonical; `.grok/skills/` is the dogfood copy and must match.
+9. `plugins/libre-fintech-grok/skills/` (melted) and `stubs/skills/` (stubs) are canonical; `.grok/skills/` is the dogfood copy and must match. Stubs never ship in the plugin.
 10. Compliance / design review only — no fraud recipes, no evasion, no real PAN/PII in examples.
