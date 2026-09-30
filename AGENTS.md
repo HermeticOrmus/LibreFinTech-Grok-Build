@@ -7,15 +7,15 @@
 
 ## How to use this suite
 
-1. Install skills (see [QUICK_START.md](./QUICK_START.md)).
+1. Install the marketplace (see [QUICK_START.md](./QUICK_START.md)): the `libre-fintech-grok` plugin plus the LibreFinTech-Claude-Code plugins you need.
 2. Keep Reality OS as the global doctrine layer.
-3. Use suite skills for FinTech; use `AGENTS/fintech-orchestrator.md` when a full pass is needed.
+3. Use suite skills for FinTech; use `stubs/agents/fintech-orchestrator.md` (stub coordinator, not installed) when a full pass is needed.
 
 ## Agents in this repo
 
 | Agent | File | Role |
 |-------|------|------|
-| fintech-orchestrator | `AGENTS/fintech-orchestrator.md` | Coordinates payment flow, ledger, KYC/AML checklist, audit, recon, regulatory map into one FinTech pass |
+| fintech-orchestrator | `stubs/agents/fintech-orchestrator.md` (stub; not installed) | Coordinates payment flow, ledger, KYC/AML checklist, audit, recon, regulatory map into one FinTech pass |
 
 Project-level `AGENTS.md` in a consumer repo wins for project rules; this file is suite guidance. Reality OS `AGENTS.md` wins on doctrine conflicts.
 
